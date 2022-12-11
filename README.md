@@ -27,6 +27,8 @@ A Block Device is a device whose driver communicates by sending entire blocks of
 
 The sources for character devices are kept in drivers/char/, and the sources for block devices are kept in drivers/block/.
 
+![split_view_of_the_linux_kernel](https://www.oreilly.com/api/v2/epubs/0596000081/files/tagoreillycom20070220oreillyimages66835.png)
+
 
 ## Learning Resource
 
