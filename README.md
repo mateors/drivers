@@ -13,3 +13,10 @@ A Block Device is a device whose driver communicates by sending entire blocks of
 (Note: Filesystems can only be mounted if they are on block devices.)
 
 The sources for character devices are kept in drivers/char/, and the sources for block devices are kept in drivers/block/.
+
+
+## Learning Resource
+
+* http://csapp.cs.cmu.edu/
+* https://medium.com/swlh/7-steps-i-follow-for-developing-a-device-driver-bd1019e40b07
+* https://lwn.net/Kernel/LDD3/
